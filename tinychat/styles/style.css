@@ -1,0 +1,36 @@
+/* Stub CSS file for your tinychat app! */
+
+body {
+  background-color:snow;
+  color:#333;
+  font-family:'Slabo 27px', serif;
+}
+
+.postBox {
+  background-color:#D8D8D8;
+  border:1px solid white;
+}
+
+.comment {
+  padding:10px 50px 10px 50px;
+  word-wrap: break-word;
+}
+
+.author {
+  padding:10px 50px 10px 50px;
+}
+
+.timestamp {
+  padding:10px 50px 10px 50px;
+  text-align:right;
+}
+
+.textInput {
+  width:50%;
+  margin-left:10px;
+}
+
+.title {
+  font-size:30px;
+  padding:10px 10px 10px 10px
+}
